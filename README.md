@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R-Armstrong1
 - 👀 I’m interested in continuing my full-stack software journey. Currently new to the game of software development with less than 1 years experience :)
-- 🌱 I’m currently learning C#, ASP.NET MVC, Javascript, SQL, React
+- 🌱 I’m currently learning C#, ASP.NET MVC, Javascript, SQL, React, Java
 - 💞️ I’m looking to collaborate on anything! I just want the experience.
 - 📫 How to reach me: gmail (ruairiarmstrong96@gmial.com)
 
